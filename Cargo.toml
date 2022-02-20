@@ -1,0 +1,8 @@
+[package]
+name = "hello_cargo" # name of the package
+version = "0.1.0" # version of the package
+edition = "2021" # edition of rust to use
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
